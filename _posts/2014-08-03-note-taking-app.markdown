@@ -38,3 +38,10 @@ Make it so.
 * [Detail Screen](/images/note-taking-app-detail.jpg)
 * [Adding a new note](/images/note-taking-app-new-note.jpg)
 
+## Example Implementations
+
+Don't cheat and look at these until you have created your own.
+
+* [Objective-C](https://github.com/iosdevpractice/NoteTakingApp_Objective-C)
+* [Swift](https://github.com/iosdevpractice/NoteTakingApp_Swift)
+
