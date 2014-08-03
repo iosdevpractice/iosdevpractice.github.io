@@ -45,3 +45,6 @@ Don't cheat and look at these until you have created your own.
 * [Objective-C](https://github.com/iosdevpractice/NoteTakingApp_Objective-C)
 * [Swift](https://github.com/iosdevpractice/NoteTakingApp_Swift)
 
+
+Discuss this exercise
+[here](https://github.com/iosdevpractice/iosdevpractice_discussion/issues/1).
