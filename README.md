@@ -1,6 +1,6 @@
 # iOS Dev Practice
 
-[iOS Dev Practice](http://www.iosdevpractice) is a collection of practice exercises for learning iOS development.
+[iOS Dev Practice](http://www.iosdevpractice.com) is a collection of practice exercises for learning iOS development.
 
 **What This Repository Is For**
 
