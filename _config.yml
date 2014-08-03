@@ -1,7 +1,7 @@
 # Site settings
 title: iOS Dev Practice
 email: wiley@iosdevpractice.com
-description: "Practice iOS app development without the hand holding of most tutorials. Given a brief design spec, build an app. Lather, rinse, repeat."
+description: "Practice iOS app development without the hand-holding provided by most tutorials. Given a brief design specification, build an app. Lather, rinse, repeat."
 baseurl: ""
 url: "http://www.iosdevpractice.com"
 twitter_username: wileywimberly
