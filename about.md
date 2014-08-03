@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Practice makes perfect. Well, at least better.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The goal for this site is to provide simple iOS development projects that force you to learn the necessary skills.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* [Cocoa Core Competencies](https://developer.apple.com/library/ios/documentation/general/conceptual/devpedia-cocoacore/Accessibility.html).
+* [Cocoa Application Competencies for iOS](https://developer.apple.com/library/ios/documentation/General/Conceptual/Devpedia-CocoaApp/Animation.html)
