@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://www.iosdevpractice.com"
 twitter_username: wileywimberly
 github_username: iosdevpractice
+google_analytics: UA-20384275-3
 
 # Build settings
 markdown: kramdown
