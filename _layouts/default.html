@@ -15,5 +15,7 @@
 
     {% include footer.html %}
     {% include google_analytics.html %}
+    {% if page.comments %}{% include disqus.html %}{% endif %}
+
     </body>
 </html>

@@ -7,6 +7,7 @@ url: "http://www.iosdevpractice.com"
 twitter_username: iosdevpractice
 github_username: iosdevpractice
 google_analytics: UA-20384275-3
+disqus_shortname: iosdevpractice
 
 # Build settings
 markdown: kramdown

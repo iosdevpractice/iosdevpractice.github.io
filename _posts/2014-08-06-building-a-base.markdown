@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Building a Base"
+comments: true
 ---
 
 When learning to develop for iOS, building a strong foundation is extremely important. A good starting base of knowledge is key. Once you understand the basics, adding app specific details is a more manageable task. Luckily, there is a lot of great information available to help build your base.
