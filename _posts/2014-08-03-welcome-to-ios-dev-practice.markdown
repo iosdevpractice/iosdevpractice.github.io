@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to iOS Dev Practice"
-date:   2014-08-03
+date:   2014-08-03 12:00:00
 categories:
 ---
 

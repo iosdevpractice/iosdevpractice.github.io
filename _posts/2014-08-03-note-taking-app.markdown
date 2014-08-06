@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Note Taking App"
-date:   2014-08-03
+date:   2014-08-03 12:00:01
 categories: practice
 ---
 
