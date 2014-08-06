@@ -3,6 +3,7 @@ layout: post
 title:  "Note Taking App"
 date:   2014-08-03 12:00:01
 categories: practice
+comments: true
 ---
 
 For our first practice exercise, we will build a simple note taking app from the following rough design. For double the fun, build it in both Objective-C and Swift.
@@ -45,6 +46,3 @@ Don't cheat and look at these until you have created your own.
 * [Objective-C](https://github.com/iosdevpractice/NoteTakingApp_Objective-C)
 * [Swift](https://github.com/iosdevpractice/NoteTakingApp_Swift)
 
-
-Discuss this exercise
-[here](https://github.com/iosdevpractice/iosdevpractice_discussion/issues/1).
