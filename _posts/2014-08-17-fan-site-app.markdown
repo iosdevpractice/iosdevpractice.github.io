@@ -21,6 +21,7 @@ This practice exercise will explore accessing the network, parsing XML and JSON.
 ### Posts Screen
 * table view in navigation controller
 * table view cells show post title and date
+* date is formatted for display
 * tapping on a cell pushes post detail screen
 
 ### Post Detail Screen
@@ -33,12 +34,14 @@ This practice exercise will explore accessing the network, parsing XML and JSON.
 ### Tweets Screen
 * table view in navigation controller
 * table view cells show tweet and date
+* date is formatted for display
 * tapping on a cell launches twitter app with tweet if available
 * tapping on a cell pushes tweet detail screen if twitter app not
   available
 
 ### Tweet Detail Screen
 * web view loaded with tweet url
+* not shown if twtter app is installed
 
 ## Wireframes
 * [Feed Main Screen](/images/fan-site-feed-main.jpg)
