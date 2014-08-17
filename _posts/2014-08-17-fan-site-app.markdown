@@ -12,7 +12,7 @@ This practice exercise will explore accessing the network, parsing XML and JSON.
 * use a tab bar for different sections
 * responsive UI (don't block the UI when making network requests)
 * show network usage in status bar
-* check for network availability and show message if not available
+* show message if network not available
 
 ## First Tab
 * get posts from RSS feed - (Use http://www.iosdevpractice.com/feed.xml or
