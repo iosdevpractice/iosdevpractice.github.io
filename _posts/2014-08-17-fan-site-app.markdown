@@ -50,4 +50,4 @@ This practice exercise will explore accessing the network, parsing XML and JSON.
 * [Tweets Detail Screen](/images/fan-site-tweets-detail.jpg)
 
 ## Example Implementation
-* Coming Soon
+* [Swift](https://github.com/iosdevpractice/FanSiteApp_Swift)
