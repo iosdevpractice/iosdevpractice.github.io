@@ -5,7 +5,7 @@ categories: practice
 comments: true
 ---
 
-For this weeks practice exercise, we will explore accessing the network while building a simple app from the following rough design.
+This practice exercise will explore accessing the network, parsing XML and JSON. Build the following simple fan site app using this rough design.
 
 ## Basic Functionality
 
@@ -15,7 +15,8 @@ For this weeks practice exercise, we will explore accessing the network while bu
 * check for network availability and show message if not available
 
 ## First Tab
-* get posts from RSS feed
+* get posts from RSS feed - (Use http://www.iosdevpractice.com/feed.xml or
+  substitute any site you want.)
 
 ### Posts Screen
 * table view in navigation controller
@@ -27,7 +28,7 @@ For this weeks practice exercise, we will explore accessing the network while bu
 * web view loaded with post url
 
 ## Second Tab
-* get tweets for user
+* get tweets for user (@iosdevpractice)
 
 ### Tweets Screen
 * table view in navigation controller
