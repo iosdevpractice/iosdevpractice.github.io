@@ -11,7 +11,7 @@ This practice exercise will explore accessing the network, parsing XML and JSON.
 
 * use a tab bar for different sections
 * responsive UI (don't block the UI when making network requests)
-* show network usage in status bar
+* show network activity in status bar
 * show message if network not available
 
 ## First Tab
